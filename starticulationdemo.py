@@ -89,7 +89,7 @@ def get_age_in_months(age_str):
 
 # --- UI ---
 st.set_page_config("Starticulation", layout="wide")
-st.title("Starticulation Articulation Assessment")
+st.title("Starticulation Articulation Assessment - FREE DEMO Version")
 
 if 'show_instructions' not in st.session_state:
     st.session_state.show_instructions = True
