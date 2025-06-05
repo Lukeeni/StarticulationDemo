@@ -97,7 +97,9 @@ if 'show_instructions' not in st.session_state:
 if st.session_state.show_instructions:
     with st.expander("Welcome to Starticulation - Click to Continue"):
         st.markdown("""
-Welcome to Starticulation, a tool for assessing consonant articulation. Starticulation is made by speech pathologists, for speech pathologists.
+Welcome to a FREE DEMO version of Starticulation, a tool for assessing consonant articulation. Starticulation is made by speech pathologists, for speech pathologists.
+
+This versino of Starticulation contains 14 consonants and clusters to see how Starticulation works and if it's right for you.
 
 **HOW TO USE**: Fill in each box with the actual sound produced by the child. Target boxes are filled in by default.
 
